@@ -1,0 +1,49 @@
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\bin\Debug\Post.exe.config
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\obj\Debug\Post.csprojResolveAssemblyReference.cache
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\obj\Debug\Post.Form1.resources
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\obj\Debug\Post.Properties.Resources.resources
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\obj\Debug\Post.csproj.GenerateResource.Cache
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\bin\Debug\Post.exe
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\bin\Debug\Post.pdb
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\obj\Debug\Post.exe
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\obj\Debug\Post.pdb
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\obj\Debug\Post.AddForm.resources
+D:\Vladimir Tikaev\Mega\курсач C#\Post\Post\obj\Debug\Post.reports.resources
+F:\Mega\курсач C#\Post\Post\bin\Debug\Post.exe.config
+F:\Mega\курсач C#\Post\Post\bin\Debug\Post.exe
+F:\Mega\курсач C#\Post\Post\bin\Debug\Post.pdb
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.csprojResolveAssemblyReference.cache
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.AddForm.resources
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.Form1.resources
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.Properties.Resources.resources
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.reports.resources
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.csproj.GenerateResource.Cache
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.csproj.CoreCompileInputs.cache
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.exe
+F:\Mega\курсач C#\Post\Post\obj\Debug\Post.pdb
+C:\Users\user\Downloads\Почтовое отделение\Post\bin\Debug\Post.exe.config
+C:\Users\user\Downloads\Почтовое отделение\Post\bin\Debug\Post.exe
+C:\Users\user\Downloads\Почтовое отделение\Post\bin\Debug\Post.pdb
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.AddForm.resources
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.Form1.resources
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.Properties.Resources.resources
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.reports.resources
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.exe
+C:\Users\user\Downloads\Почтовое отделение\Post\obj\Debug\Post.pdb
+D:\Почтовое отделение1\Post\bin\Debug\Post.exe.config
+D:\Почтовое отделение1\Post\bin\Debug\Post.exe
+D:\Почтовое отделение1\Post\bin\Debug\Post.pdb
+D:\Почтовое отделение1\Post\obj\Debug\Post.csproj.AssemblyReference.cache
+D:\Почтовое отделение1\Post\obj\Debug\Post.csproj.SuggestedBindingRedirects.cache
+D:\Почтовое отделение1\Post\obj\Debug\Post.AddForm.resources
+D:\Почтовое отделение1\Post\obj\Debug\Post.Form1.resources
+D:\Почтовое отделение1\Post\obj\Debug\Post.Properties.Resources.resources
+D:\Почтовое отделение1\Post\obj\Debug\Post.reports.resources
+D:\Почтовое отделение1\Post\obj\Debug\Post.csproj.GenerateResource.cache
+D:\Почтовое отделение1\Post\obj\Debug\Post.csproj.CoreCompileInputs.cache
+D:\Почтовое отделение1\Post\obj\Debug\Post.exe
+D:\Почтовое отделение1\Post\obj\Debug\Post.pdb
